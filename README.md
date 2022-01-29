@@ -44,24 +44,21 @@ This guide lists all the resources required for starting building your next Reac
 
 
 ### CI/CD
--  [Github Actions](https://docs.expo.dev/)
--  [Circle CI](https://docs.expo.dev/)
--  [Fastlane CI](https://docs.expo.dev/)
--  [Expo](https://docs.expo.dev/)
+-  [Github Actions](https://docs.github.com/en/actions)
+-  [Circle CI](https://circleci.com/)
+-  [Fastlane CI](https://fastlane.tools/)
+-  [Visual Studio App Center](https://appcenter.ms/)
 
 ### Analytics
--  [Expo](https://docs.expo.dev/)
--  [Expo](https://docs.expo.dev/)
-
+-  [React Native Firebase](https://rnfirebase.io/analytics/usage)
+-  [Segment](https://segment.com/docs/connections/sources/catalog/libraries/mobile/react-native/)
+-  [Visual Studio App Center](https://docs.microsoft.com/en-us/appcenter/sdk/getting-started/react-native)
 
 ### Tools
 -  [Expo](https://docs.expo.dev/)
 
 ### Internationalization
--  [Expo](https://docs.expo.dev/)
--  [Expo](https://docs.expo.dev/)
--  [Expo](https://docs.expo.dev/)
--  [Expo](https://docs.expo.dev/)
+-  [i18next](https://react.i18next.com/)
 
 ### Lists
 -  [Expo](https://docs.expo.dev/)
@@ -83,11 +80,6 @@ This guide lists all the resources required for starting building your next Reac
 -  [Expo](https://docs.expo.dev/)
 
 
-### Dropdowns
--  [Expo](https://docs.expo.dev/)
--  [Expo](https://docs.expo.dev/)
--  [Expo](https://docs.expo.dev/)
--  [Expo](https://docs.expo.dev/)
 
 
 ### 
