@@ -1,5 +1,3 @@
-# UNDER CONSTRUCTION
-
 # React Native Start Guide
 This guide lists all the resources required for starting building your next React Native app.
 
@@ -10,12 +8,22 @@ This guide lists all the resources required for starting building your next Reac
 -  [A Definitive React-Native Guide for React Developers](https://blog.risingstack.com/a-definitive-react-native-guide-for-react-developers/)
 -  [Tutorials Point Guide](https://www.tutorialspoint.com/react_native/react_native_quick_guide.htm)
 -  [Expo](https://docs.expo.dev/)
--  
-### Icons and Vectors
+
+### Useful Youtube Channels
+-  [Evening kid](https://www.youtube.com/c/eveningkid)
+-  [Catalin Miron](https://www.youtube.com/c/CatalinMironDev)
+-  [William Candillon](https://www.youtube.com/c/wcandillon)
+-  [Reactiive](https://www.youtube.com/c/Reactiive)
+
+### Icons
 -  [React Native Vector Icons](https://oblador.github.io/react-native-vector-icons/)
--  [Expo](https://docs.expo.dev/)
--  [Expo](https://docs.expo.dev/)
--  [Expo](https://docs.expo.dev/)
+
+### UI Libraries
+-  [React Native Elements](https://reactnativeelements.com/)
+-  [React Native Paper](https://callstack.github.io/react-native-paper/1.0/index.html)
+-  [React Nativebase](https://nativebase.io/)
+-  [React Native UI Kitten](https://akveo.github.io/react-native-ui-kitten/)
+-  [React Native Materila Kit](http://rnmk.xinthink.com/)
 
 ### Animations
 -  [Reanimated 2](https://docs.swmansion.com/react-native-reanimated/)
@@ -23,12 +31,10 @@ This guide lists all the resources required for starting building your next Reac
 -  [Moti](https://moti.fyi/)
 -  [React Native Skia](https://github.com/react-native-skia/react-native-skia)
 
-
 ### Navigation
 -  [React Navigation](https://reactnavigation.org/)
 -  [React Native Navigation](https://github.com/wix/react-native-navigation)
 -  [React Router](https://www.npmjs.com/package/react-router-native)
-
 
 ### Linting and Styling
 -  [ESLint](https://eslint.org/)
@@ -42,7 +48,6 @@ This guide lists all the resources required for starting building your next Reac
 -  [Detox](https://github.com/wix/detox/)
 -  [Appium](http://appium.io/)
 
-
 ### CI/CD
 -  [Github Actions](https://docs.github.com/en/actions)
 -  [Circle CI](https://circleci.com/)
@@ -55,46 +60,18 @@ This guide lists all the resources required for starting building your next Reac
 -  [Visual Studio App Center](https://docs.microsoft.com/en-us/appcenter/sdk/getting-started/react-native)
 
 ### Tools
--  [Expo](https://docs.expo.dev/)
+-  [Shadow Generator](https://ethercreative.github.io/react-native-shadow-generator/)
+-  [Convert web SVG to React Native SVG](https://react-svgr.com/playground/?native=true)
 
 ### Internationalization
 -  [i18next](https://react.i18next.com/)
 
-### Lists
--  [Expo](https://docs.expo.dev/)
--  [Expo](https://docs.expo.dev/)
--  [Expo](https://docs.expo.dev/)
--  [Expo](https://docs.expo.dev/)
+### Fast Performance Lists
+-  [Recycler List View](https://github.com/Flipkart/recyclerlistview)
 
 ### Graphs and Visualizations
--  [Expo](https://docs.expo.dev/)
--  [Expo](https://docs.expo.dev/)
--  [Expo](https://docs.expo.dev/)
--  [Expo](https://docs.expo.dev/)
+-  [SVG Charts](https://github.com/JesperLekland/react-native-svg-charts)
+-  [Victory Charts](https://formidable.com/open-source/victory/docs/native/)
 
 
-### Utilities Libraries
--  [Expo](https://docs.expo.dev/)
--  [Expo](https://docs.expo.dev/)
--  [Expo](https://docs.expo.dev/)
--  [Expo](https://docs.expo.dev/)
-
-
-
-
-### 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+## Please feel free to contribute to this list by opening a PR.
