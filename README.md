@@ -10,43 +10,43 @@ This guide lists all the resources required for starting building your next Reac
 -  [A Definitive React-Native Guide for React Developers](https://blog.risingstack.com/a-definitive-react-native-guide-for-react-developers/)
 -  [Tutorials Point Guide](https://www.tutorialspoint.com/react_native/react_native_quick_guide.htm)
 -  [Expo](https://docs.expo.dev/)
+-  
 ### Icons and Vectors
--  [Expo](https://docs.expo.dev/)
+-  [React Native Vector Icons](https://oblador.github.io/react-native-vector-icons/)
 -  [Expo](https://docs.expo.dev/)
 -  [Expo](https://docs.expo.dev/)
 -  [Expo](https://docs.expo.dev/)
 
 ### Animations
--  [Expo](https://docs.expo.dev/)
--  [Expo](https://docs.expo.dev/)
--  [Expo](https://docs.expo.dev/)
--  [Expo](https://docs.expo.dev/)
+-  [Reanimated 2](https://docs.swmansion.com/react-native-reanimated/)
+-  [Animated](https://reactnative.dev/docs/animated)
+-  [Moti](https://moti.fyi/)
+-  [React Native Skia](https://github.com/react-native-skia/react-native-skia)
 
 
 ### Navigation
--  [Expo](https://docs.expo.dev/)
--  [Expo](https://docs.expo.dev/)
--  [Expo](https://docs.expo.dev/)
--  [Expo](https://docs.expo.dev/)
+-  [React Navigation](https://reactnavigation.org/)
+-  [React Native Navigation](https://github.com/wix/react-native-navigation)
+-  [React Router](https://www.npmjs.com/package/react-router-native)
 
 
 ### Linting and Styling
--  [Expo](https://docs.expo.dev/)
--  [Expo](https://docs.expo.dev/)
--  [Expo](https://docs.expo.dev/)
--  [Expo](https://docs.expo.dev/)
+-  [ESLint](https://eslint.org/)
+-  [Prettier](https://prettier.io/)
+-  [Husky](https://github.com/typicode/husky)
+-  [Enforcing Consistent and Error Free Code in an Expo React Native Project with TypeScript](https://justinnoel.dev/2020/07/20/enforcing-consistent-and-error-free-code-in-an-expo-react-native-project-with-typescript/)
 
 ### Testing
--  [Expo](https://docs.expo.dev/)
--  [Expo](https://docs.expo.dev/)
--  [Expo](https://docs.expo.dev/)
--  [Expo](https://docs.expo.dev/)
+-  [React Test Renderer](https://reactjs.org/docs/test-renderer.html)
+-  [React Native Testting Library](https://docs.expo.dev/)
+-  [Detox](https://github.com/wix/detox/)
+-  [Appium](http://appium.io/)
 
 
 ### CI/CD
--  [Expo](https://docs.expo.dev/)
--  [Expo](https://docs.expo.dev/)
--  [Expo](https://docs.expo.dev/)
+-  [Github Actions](https://docs.expo.dev/)
+-  [Circle CI](https://docs.expo.dev/)
+-  [Fastlane CI](https://docs.expo.dev/)
 -  [Expo](https://docs.expo.dev/)
 
 ### Analytics
