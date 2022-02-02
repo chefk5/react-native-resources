@@ -36,6 +36,9 @@ This guide lists all the resources required for starting building your next Reac
 -  [React Native Navigation](https://github.com/wix/react-native-navigation)
 -  [React Router](https://www.npmjs.com/package/react-router-native)
 
+### Images
+- [React Native Fast Image](https://github.com/DylanVann/react-native-fast-image)
+
 ### Linting and Styling
 -  [ESLint](https://eslint.org/)
 -  [Prettier](https://prettier.io/)
