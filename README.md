@@ -14,6 +14,7 @@ This guide lists all the resources required for starting building your next Reac
 -  [Catalin Miron](https://www.youtube.com/c/CatalinMironDev)
 -  [William Candillon](https://www.youtube.com/c/wcandillon)
 -  [Reactiive](https://www.youtube.com/c/Reactiive)
+-  [React Native School](https://www.youtube.com/c/ReactNativeSchool)
 
 ### Icons
 -  [React Native Vector Icons](https://oblador.github.io/react-native-vector-icons/)
