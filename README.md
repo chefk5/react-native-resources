@@ -72,6 +72,7 @@ This guide lists all the resources required for starting building your next Reac
 
 ### Fast Performance Lists
 -  [Recycler List View](https://github.com/Flipkart/recyclerlistview)
+-  [FlashList](https://shopify.github.io/flash-list/)
 
 ### Graphs and Visualizations
 -  [SVG Charts](https://github.com/JesperLekland/react-native-svg-charts)
