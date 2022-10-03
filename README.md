@@ -16,6 +16,19 @@ This guide lists all the resources required for starting building your next Reac
 -  [Reactiive](https://www.youtube.com/c/Reactiive)
 -  [React Native School](https://www.youtube.com/c/ReactNativeSchool)
 
+### Twitter Accounts To Follow
+-  [React Native](https://twitter.com/reactnative)
+-  [React Native Radio](https://twitter.com/ReactNativeRdio)
+-  [William Candillon](https://twitter.com/wcandillon)
+-  [Evan Bacon](https://twitter.com/Baconbrix)
+-  [React Native at Microsoft](https://twitter.com/ReactNativeMSFT)
+-  [React Navigation](https://twitter.com/reactnavigation)
+-  [React Native Paper](https://twitter.com/rn_paper)
+-  [Use React Native](https://twitter.com/UseReactNative)
+-  [Fernando Rojo](https://twitter.com/FernandoTheRojo)
+-  [Timothy Yung](https://twitter.com/yungsters)
+-  [Callstack Engineers](https://twitter.com/Callstackio)
+
 ### Icons
 -  [React Native Vector Icons](https://oblador.github.io/react-native-vector-icons/)
 
