@@ -9,7 +9,7 @@ This guide lists all the resources required for starting building your next Reac
 -  [Tutorials Point Guide](https://www.tutorialspoint.com/react_native/react_native_quick_guide.htm)
 -  [Expo](https://docs.expo.dev/)
 
-### :yt: Useful Youtube Channels
+### :tv: Useful Youtube Channels
 -  [Evening kid](https://www.youtube.com/c/eveningkid)
 -  [Catalin Miron](https://www.youtube.com/c/CatalinMironDev)
 -  [William Candillon](https://www.youtube.com/c/wcandillon)
