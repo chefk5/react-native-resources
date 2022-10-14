@@ -1,5 +1,5 @@
-# React Native Start Guide
-This guide lists all the resources required for starting building your next React Native app.
+# React Native Resources
+This guide lists all the resources required to build react native apps, learn and stay up to date.
 
 ### :books: Documention:
 -  [Official React Native documentation](https://www.example.com)
