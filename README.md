@@ -2,10 +2,10 @@
 This guide lists all the resources required to build react native apps, learn and stay up to date.
 
 ### :books: Documentions:
--  [Official React Native documentation](https://www.example.com)
+-  [Official React Native documentation](https://reactnative.dev/docs/getting-started)
 The offical react native documentation. Here you will find everything you need to get started with react native, all the information about its APIs and elements.
 
--  [Official React Documentation](https://www.example.com) 
+-  [Official React Documentation](https://react.dev/) 
 Reading the react documentation helps when it comes ot understand react lifecycle and everything related to react because at the end react native is react.
 
 -  [Expo](https://docs.expo.dev/) 
